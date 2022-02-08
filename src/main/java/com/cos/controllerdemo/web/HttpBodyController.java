@@ -1,5 +1,5 @@
 package com.cos.controllerdemo.web;
-
+/*4. json 방식이 보편적으로 쓰인다.*/
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.PostMapping;
