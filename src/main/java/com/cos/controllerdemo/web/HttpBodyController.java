@@ -35,7 +35,7 @@ public class HttpBodyController {
 	}
 	@PostMapping("/body4")
 	public String applicationjsonToObject(@RequestBody User user) {
-		
+		// java오브젝트로 받아줘야 user.~ 처럼 데이터의 값을 바꿀수도 뽑아낼수도 있다.)
 		log.info(user.getUsername());
 		return "json 전송옴";
 	}
