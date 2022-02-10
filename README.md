@@ -10,3 +10,5 @@
 - http 요청을 JSON으로 응답하기
 - HTML 요청을 File로 응답하기
 - jsp 파일에 java 코드 사용해보기
+0210_controller_demo
+- HTTP 요청 재분배하기(redirection)
